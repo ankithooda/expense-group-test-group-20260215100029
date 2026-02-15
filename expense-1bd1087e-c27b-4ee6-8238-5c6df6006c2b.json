@@ -1,0 +1,13 @@
+{
+  "id": "1bd1087e-c27b-4ee6-8238-5c6df6006c2b",
+  "description": "Test food expense",
+  "amount": 10.0,
+  "category": "Food",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [],
+  "split_type": "equal",
+  "split_details": {},
+  "settled": false
+}
