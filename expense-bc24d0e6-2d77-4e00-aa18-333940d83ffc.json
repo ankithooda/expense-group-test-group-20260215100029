@@ -1,0 +1,18 @@
+{
+  "id": "bc24d0e6-2d77-4e00-aa18-333940d83ffc",
+  "description": "Dinner with percentage split",
+  "amount": 60.0,
+  "category": "Food",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [
+    "octocat"
+  ],
+  "split_type": "percentage",
+  "split_details": {
+    "ankithooda": 70.0,
+    "octocat": 30.0
+  },
+  "settled": false
+}
