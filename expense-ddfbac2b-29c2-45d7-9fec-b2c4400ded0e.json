@@ -1,0 +1,13 @@
+{
+  "id": "ddfbac2b-29c2-45d7-9fec-b2c4400ded0e",
+  "description": "Test entertainment expense",
+  "amount": 10.0,
+  "category": "Entertainment",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [],
+  "split_type": "equal",
+  "split_details": {},
+  "settled": false
+}
