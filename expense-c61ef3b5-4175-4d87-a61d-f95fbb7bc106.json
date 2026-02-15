@@ -1,0 +1,18 @@
+{
+  "id": "c61ef3b5-4175-4d87-a61d-f95fbb7bc106",
+  "description": "Invalid custom split",
+  "amount": 50.0,
+  "category": "Food",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [
+    "octocat"
+  ],
+  "split_type": "custom",
+  "split_details": {
+    "ankithooda": 20.0,
+    "octocat": 20.0
+  },
+  "settled": false
+}
