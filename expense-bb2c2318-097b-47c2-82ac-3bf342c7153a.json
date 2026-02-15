@@ -1,0 +1,18 @@
+{
+  "id": "bb2c2318-097b-47c2-82ac-3bf342c7153a",
+  "description": "Invalid percentage split",
+  "amount": 50.0,
+  "category": "Food",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [
+    "octocat"
+  ],
+  "split_type": "percentage",
+  "split_details": {
+    "ankithooda": 60.0,
+    "octocat": 30.0
+  },
+  "settled": false
+}
