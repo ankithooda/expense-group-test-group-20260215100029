@@ -1,0 +1,13 @@
+{
+  "id": "575e7fd1-7b81-4abc-a612-8c9d387091bb",
+  "description": "Test other expense",
+  "amount": 10.0,
+  "category": "Other",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [],
+  "split_type": "equal",
+  "split_details": {},
+  "settled": false
+}
