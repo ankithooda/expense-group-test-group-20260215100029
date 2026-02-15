@@ -1,0 +1,13 @@
+{
+  "id": "a6936511-5cb2-4261-a2fc-2c8dff359435",
+  "description": "Test shopping expense",
+  "amount": 10.0,
+  "category": "Shopping",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [],
+  "split_type": "equal",
+  "split_details": {},
+  "settled": false
+}
