@@ -1,0 +1,13 @@
+{
+  "id": "7a953c54-03c1-4d2f-874b-0aa98dc82969",
+  "description": "Test transport expense",
+  "amount": 10.0,
+  "category": "Transport",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [],
+  "split_type": "equal",
+  "split_details": {},
+  "settled": false
+}
