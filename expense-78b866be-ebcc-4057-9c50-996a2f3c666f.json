@@ -1,0 +1,13 @@
+{
+  "id": "78b866be-ebcc-4057-9c50-996a2f3c666f",
+  "description": "Test utilities expense",
+  "amount": 10.0,
+  "category": "Utilities",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [],
+  "split_type": "equal",
+  "split_details": {},
+  "settled": false
+}
