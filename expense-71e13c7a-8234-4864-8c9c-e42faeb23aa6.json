@@ -1,0 +1,18 @@
+{
+  "id": "71e13c7a-8234-4864-8c9c-e42faeb23aa6",
+  "description": "Transport with custom split",
+  "amount": 40.0,
+  "category": "Transport",
+  "date": "2026-02-15",
+  "owner": "ankithooda",
+  "currency": "USD",
+  "split_with": [
+    "octocat"
+  ],
+  "split_type": "custom",
+  "split_details": {
+    "ankithooda": 25.0,
+    "octocat": 15.0
+  },
+  "settled": false
+}
